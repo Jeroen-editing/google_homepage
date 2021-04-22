@@ -1,6 +1,6 @@
 # Google homepage
 
-#### Excercises for "the odin project".
+### Excercises for "the odin project".
 
 #### First version:
 ##### https://jeroen-editing.github.io/google_homepage/theOdinProject_version/index.html
